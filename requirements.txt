@@ -14,7 +14,7 @@ MarkupSafe==1.1.1 # BSD License (BSD-3-Clause)
 mccabe==0.6.1 # MIT License (Expat license)
 oauthlib==3.1.0 # OSI Approved, BSD License (BSD)
 psycopg2==2.8.4 # GNU Library or Lesser General Public License (LGPL), Zope Public License (LGPL with exceptions)
-PyJWT==1.7.1 # MIT License (MIT)
+PyJWT==2.4.0 # MIT License (MIT)
 pylint==2.4.4 # GNU General Public License (GPL) (GPL)
 python-dateutil==1.5 # Apache Software License, BSD License (Dual License)
 python3-openid==3.1.0 # Apache Software License
