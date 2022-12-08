@@ -1,6 +1,6 @@
 asgiref==3.2.3 # BSD License (BSD)
 astroid==2.3.3 # LGPL
-certifi==2019.11.28 #  Mozilla Public License 2.0 (MPL 2.0) (MPL-2.0)
+certifi==2022.12.7 #  Mozilla Public License 2.0 (MPL 2.0) (MPL-2.0)
 chardet==3.0.4 # GNU Library or Lesser General Public License (LGPL) (LGPL)
 defusedxml==0.6.0 # Python Software Foundation License (PSFL)
 dj-database-url==0.5.0 # BSD License (BSD)
